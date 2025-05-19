@@ -1296,3 +1296,11 @@ list_visualise(mylist);
 - Use doubly linked lists to optimise time complexity for some functions (eg, `list_pop`).
 
 ---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and learn from it. Attribution is appreciated.
+
+---
+
