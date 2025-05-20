@@ -325,7 +325,7 @@ AVailable demos: 1, 2, 3, 4, 5.
 demo 1 = [0, 1, 2, 3, 4, 5]
 demo 2 = [5, 4, 3, 2, 1, 0]
 demo 3 = [42, 71, 91, 13, 4, 3, 53, 4, 11, 86, 1, 0, 34, 7, 4, 9, 21, 0, 4]
-demo 4 = numbers from 0 to 10000.
+demo 4 = numbers from 0 to 10000. >*for performance testing*
 demo 5 = random large and small numbers both positive and negative
 
 **Syntax:**
