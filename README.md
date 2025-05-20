@@ -75,7 +75,7 @@ This library abstracts away the low-level complexity of working with linked list
 
 ### Installation
 
-1. Copy `cs50++.c` and `cs50++.h` into your project directory.
+1. Copy `cs50++.o` and `cs50++.h` into your project directory.
 
 2. Include it in your project file:
 
@@ -102,11 +102,11 @@ list_print(my_list);
 
 Example with GCC:
 ```c
-gcc -o file_name file_name.c cs50++.c
+gcc -o file_name file_name.c cs50++.o
 ```
 Example with CLang:
 ```c
-clang -o file_name file_name.c cs50++.c
+clang -o file_name file_name.c cs50++.o
 ```
 
 ### Example usage
@@ -1289,18 +1289,11 @@ list_visualise(mylist);
 
 ---
 
-## Future Enhancements
-
-- Upgrade the lists functionalities to handle different data types (eg, strings, floats).
-- Add Python-like dictionaries with key-value pairs.
-- Use doubly linked lists to optimise time complexity for some functions (eg, `list_pop`).
-
----
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and learn from it. Attribution is appreciated.
+This release includes only the compiled object file `cs50++.o` and header file `cs50++.h` for usage.
+The source code is not included in compliance with CS50's academic policy.
+The project is licensed under the MIT License.
 
 ---
 
